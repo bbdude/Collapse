@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 78dff113d4d4be449a1ac6a1e1e61928
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grass: {fileID: 100000, guid: 71bf36f92e185fa4b901b59083074e71, type: 2}
+  - stone: {fileID: 100000, guid: 9e8ce8ec0cac1064ab5cfd77805e59bf, type: 2}
+  - tree: {fileID: 100000, guid: 1cd4e2192d532d34c8ccbbdcf0ab8bb9, type: 2}
+  - wall: {fileID: 100000, guid: e9cf5100d4d1d944cacdd6e9d1dc388f, type: 2}
+  - masterPlayer: {instanceID: 0}
+  - masterNpc: {instanceID: 0}
+  - blueSpawn: {instanceID: 0}
+  - redSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
